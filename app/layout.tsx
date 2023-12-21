@@ -36,7 +36,7 @@ export default function RootLayout({
         <Bottom/>
       </ThemeProvider>
       </body>
-      <GoogleTagManager gtmId="GTM-5P4HLS4P" />
+      <GoogleTagManager gtmId="GTM-KQGLNC29" />
       </html>
   )
 }
